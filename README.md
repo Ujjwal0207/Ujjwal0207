@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ujjwal Goyal<br>I'm a B.Tech student in Computer Science and Business at IIIT Lucknow (Batch of 2027), passionate about building intelligent systems that bridge the gap between software engineering and AI.<br><br>🚀 I love solving real-world problems with code and have developed projects spanning AI, computer vision, LLMs, and backend systems. I’ve solved 800+ DSA problems and rank in the Top 5% globally on LeetCode.
+👋 Hi, I'm Ujjwal Goyal<br>I'm a B.Tech student in Computer Science and Business at IIIT Lucknow (Batch of 2027), passionate about building intelligent systems that bridge the gap between software engineering and AI.<br><br>🚀 I love solving real-world problems with code and have developed projects spanning AI, computer vision, LLMs, and backend systems. I’ve solved 1000+ DSA problems and rank in the Top 3% globally on LeetCode.
 
 
 ## 🌐 Socials:
